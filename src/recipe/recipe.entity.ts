@@ -1,0 +1,1 @@
+// Entity/table for Recipe data
