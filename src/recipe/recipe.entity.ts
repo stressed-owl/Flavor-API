@@ -19,7 +19,7 @@ export class Recipe {
     ingredients: string[];
 
     @Column()
-    cookingTime: number;
+    cookingTime: string;
 
     @Column()
     instructions: string;
